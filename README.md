@@ -3,6 +3,7 @@
 A simple, mobile-first Instagram-style feed clone. Built with **vanilla HTML, CSS**
 — perfect for practicing layout, typography, and component structuring.
 
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/0520501f-7cc8-4e78-be2e-82e60215cb3c" />
 
 ---
 
